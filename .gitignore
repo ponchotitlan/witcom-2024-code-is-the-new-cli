@@ -1,0 +1,15 @@
+venv/
+ENV/
+env/
+.venv/
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+\r
+._*
+.Spotlight-V100
+.Trashes
+.DS_Store
+.fseventsd
+*yang
