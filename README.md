@@ -1,10 +1,8 @@
-# [WITCOM 2024 - Puerto Vallarta, MX 🇲🇽🌊🤖](https://witcom.upiita.ipn.mx/)
+# WITCOM 2024 - Puerto Vallarta, MX 🇲🇽🌊🤖
 
-<p align="center">
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-python.svg" /></a>
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/built-with-love.svg" /></a>
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" /></a>
-</p>
+[![Generic Badge](https://img.shields.io/badge/WITCOM-ready!-blue?style=flat)](https://witcom.upiita.ipn.mx/)
+[![Generic Badge](https://img.shields.io/badge/HechoConMucho-café!-fedcba?style=flat&logo=buymeacoffee)]()
+[![Linkedin: asandovalros](https://img.shields.io/badge/-asandovalros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asandovalros)](https://www.linkedin.com/in/asandovalros)
 
 ## ```</Code is the new CLI>``` Network Programmability and beyond
 
@@ -46,5 +44,3 @@ El Merge Request visto en la charla [se encuentra en este enlace.](https://gitla
 - [🧠 White paper - How automation is driving network engineer skills transformation](https://www.cisco.com/c/dam/en/us/solutions/collateral/executive-perspectives/technology-perspectives/automation-driving-network-eng-skills-trans.pdf)
 
 ---
-
-Hecho con 🧡  por [Alfonso Sandoval - Cisco](https://linkedin.com/in/asandovalros)
