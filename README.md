@@ -23,8 +23,7 @@ git clone https://github.com/ponchotitlan/witcom-2024-code-is-the-new-cli
 (base) ~ % cd witcom-2024-code-is-the-new-cli
 (base) witcom-2024-code-is-the-new-cli % python3 -m venv my_venv
 (base) witcom-2024-code-is-the-new-cli % source my_venv/bin/activate
-(my_venv) (base) witcom-2024-code-is-the-new-cli % pip3 install -m requirements.txt 
-(my_venv) (base) witcom-2024-code-is-the-new-cli % pip3 install -r requirements.txt
+(my_venv) (base) witcom-2024-code-is-the-new-cli % pip3 install -m requirements.txt
 ```
 
 3. Abre el playbook de Jupyter con tu IDE preferido, y selecciona como kernel de Python el entorno virtual recién creado.
